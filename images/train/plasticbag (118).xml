@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>plasticbag (118).jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\plasticbag (118).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>683</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plasticbag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>15</ymin>
+			<xmax>587</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>
